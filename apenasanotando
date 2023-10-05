@@ -1,0 +1,11 @@
+___
+npm = node package manager é o gerenciador de pacotes
+padrão para node.js
+é usado para instalação de pacotes
+___
+
+___
+npx = mpde package execute e vem com npm acima da
+versão 5.2
+é um executador de pacotes do npm
+___
